@@ -1,3 +1,10 @@
+# Machine Learning Project
+- **Group Members**:
+- **Harshal Shinde - G23AI2045**
+- **Diksha Mehra - G23AI2017**
+- **Aishwarya Salunkhe - G23AI2031**
+
+
 # Credit Card Fraud Detection
 
 ## Overview
